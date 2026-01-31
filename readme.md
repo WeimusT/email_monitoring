@@ -1,8 +1,5 @@
-# Retrieval Augment Generation
-
-## Summary
-
-This repository contains the code to use Azure models for RAGing.
+# Email Monitoring Agent
+An ambient email monitoring agent
 
 ## References
 
